@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  background-color: "#fffdd0";
+  font-family: "Roboto", sans-serif;
+}
+
+.pbtn {
+  color: black;
+}
+.pbtn:hover {
+  color: #eec0c6;
+  /* linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%) ;*/
+}
+.scroll-nav {
+  background-color: aliceblue;
+}
